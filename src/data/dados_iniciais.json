@@ -1,0 +1,229 @@
+{
+  "categorias": [
+    {
+      "titulo": "Tutoriais",
+      "link": "https://www.tibia.com/gameguides/?subtopic=manual",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Aprenda a jogar",
+        "url": "https://www.tibia.com/gameguides/?subtopic=manual"
+      },
+      "videos": [
+        {
+          "titulo": "O que é Tibia?",
+          "url": "https://www.youtube.com/watch?v=-_f1E2cq68U"
+        },
+        {
+          "titulo": "Tibia - PRIMEIROS PASSOS #1 - Guia Completo para INICIANTES!",
+          "url": "https://www.youtube.com/watch?v=SUpea-Y_zhA"
+        },
+        {
+          "titulo": "Tutorial Level 1 ao 50 fazendo quase 1kk | TIBIA | Parte 1",
+          "url": "https://www.youtube.com/watch?v=533q-q_z5i0"
+        },
+        {
+          "titulo": "Como COMPRAR sua PREMIUM TIME pelo JOGO | Tibia",
+          "url": "https://www.youtube.com/watch?v=P4el6BJUGSI"
+        },
+        {
+          "titulo": "EXERCISE DUMMY - Novo training EXPLICADO",
+          "url": "https://www.youtube.com/watch?v=ZAhLpUOlIzo"
+        },
+        {
+          "titulo": "10 Tibia Tips & Tricks!",
+          "url": "https://www.youtube.com/watch?v=SZGL3Q35-xs"
+        },
+        {
+          "titulo": "10 Tibia PvP Tips & Tricks!",
+          "url": "https://www.youtube.com/watch?v=-4RUY2d2Ux4"
+        },
+        {
+          "titulo": "Tutorial Tibia 11 - Como Usar, O que tem de novo, Vantagens.",
+          "url": "https://www.youtube.com/watch?v=lCg8P8dx7-c"
+        },
+        {
+          "titulo": "TIBIA - Knight, Como Organizar suas Hotkeys, Backpack e Action Bars no Tibia!",
+          "url": "https://www.youtube.com/watch?v=CJMhquNmAMQ"
+        },
+        {
+          "titulo": "Como configurar o Tibia 11 (Atualizado!) 2019",
+          "url": "https://www.youtube.com/watch?v=4TF8PFpL2Kc"
+        }           
+      ]
+    },
+    {
+      "titulo": "Quests",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Explore o mundo do Tibia",
+        "url": "https://www.tibiawiki.com.br/wiki/Quests"
+      },
+      "videos": [
+        {
+          "titulo": "Best Annihilator on Tibia",
+          "url": "https://www.youtube.com/watch?v=WrNVMHLQ1bY"
+        },
+        {
+          "titulo": "EK 165 PITS OF INFERNO QUEST SOLO - TIBIA",
+          "url": "https://www.youtube.com/watch?v=oJyMULIoye0"
+        },
+        {
+          "titulo": "ED 187 INQUISITION QUEST SOLO - TIBIA",
+          "url": "https://www.youtube.com/watch?v=6hh4zjkGdLo"
+        },
+        {
+          "titulo": "Old Tibia - Cachero solo Demon Helmet Quest (DHQ)",
+          "url": "https://www.youtube.com/watch?v=6ZvCnbDmH1g"
+        }, 
+        {
+          "titulo": "The Demon Oak Quest",
+          "url": "https://www.youtube.com/watch?v=yBRtdrgtfnM"
+        },
+        {
+          "titulo": "Tibia Mortal Combat EK 117 & ED 109",
+          "url": "https://www.youtube.com/watch?v=chwbFa2WZs0"
+        }
+      ]
+    },
+    {
+      "titulo": "PVP",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Enfrente seus adversários",
+        "url": "https://www.tibia.com/community/?subtopic=highscores"
+      },
+      "videos": [
+        {
+          "titulo": "Punio - GOD of PVP [Tibia]",
+          "url": "https://www.youtube.com/watch?v=ulZ9uCa43LA"
+        },
+        {
+          "titulo": "Fearwe | Highlight #1 [TIBIA]",
+          "url": "https://www.youtube.com/watch?v=GJ4xzz0OZh8"
+        },
+        {
+          "titulo": "Lord'Paulistinha Killed - Test Server 2009",
+          "url": "https://www.youtube.com/watch?v=ApmLXg8u1pg"
+        },
+        {
+          "titulo": "Outcast PVP [Oldschool Tibia]",
+          "url": "https://www.youtube.com/watch?v=WaO2kzlb0gM"
+        },
+        {
+          "titulo": "TOMANDO HUNTED , WILLZERA CONTRA 4 NOOBS, TIBIA PK",
+          "url": "https://www.youtube.com/watch?v=WLAa3AyB0M0"
+        },
+        {
+          "titulo": "Tibia - [PK] Solo'ing a 270 Mage. 2kk Profit.",
+          "url": "https://www.youtube.com/watch?v=wychAPrM9G0"
+        }
+      ]
+    },
+    {
+      "titulo": "Wars",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Conquiste mundos",
+        "url": "https://www.tibia.com/community/?subtopic=guilds"
+      },
+      "videos": [
+        {
+          "titulo": "A INVASÃO DE LUTABRA O INICIO \"PILOTO\" #TibiaFlix 2º Temporada EP1 #TibiaClips",
+          "url": "https://www.youtube.com/watch?v=P9YxZVBKNkA"
+        },
+        {
+          "titulo": "Tibia Antica Best War Ever Uploaded By Cadil Loma",
+          "url": "https://www.youtube.com/watch?v=7YRHqZK9Hcs"
+        },
+        {
+          "titulo": "[Zingi FTW] Tibia CALVA/INFERNA War 2014: The Next Level",
+          "url": "https://www.youtube.com/watch?v=IQOg02faP3M"
+        },
+        {
+          "titulo": "[Zingi PD] Tibia Valoria War: Montazar The Movie, +Few VT Records",
+          "url": "https://www.youtube.com/watch?v=QtLNvLnrKUY"
+        },
+        {
+          "titulo": "Tibia 7.4 | Aldora war - Masakrowiec + Nemtor vs Krishna + Black Widows",
+          "url": "https://www.youtube.com/watch?v=-RpyW4HFoaQ"
+        },
+        {
+          "titulo": "Thais x Venore Noob War 30/11/2008 - Tibia Lucera",
+          "url": "https://www.youtube.com/watch?v=VAkD2AGlbrk"
+        }
+      ]
+    },
+    {
+      "titulo": "Entrevistas",
+      "cor": "red",
+      "link_extra": {
+        "text": "Conheça personagens lendários",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Tibia: Entrevista com Carlos Locatelli | Cateroide",
+          "url": "https://www.youtube.com/watch?v=1hdb8GrP4vE"
+        },
+        {
+          "titulo": "Arieswar - Dragon Lord | ⛏",
+          "url": "https://www.youtube.com/watch?v=eMmaBfAj6p4"
+        },
+        {
+          "titulo": "Tibia: Entrevista com Rubini - PARTE 1 | Cateroide",
+          "url": "https://www.youtube.com/watch?v=Xwe_jqzLCHU"
+        },
+        {
+          "titulo": "Tibia: Entrevista com Nattank - PARTE 1 (ESQUENTA)",
+          "url": "https://www.youtube.com/watch?v=efEEWtjuR2I"
+        },
+        {
+          "titulo": "Eternal Oblivion comenta sobre Serpentine Tower em \"Entrevista\" - [AMA]",
+          "url": "https://www.youtube.com/watch?v=s-rM3RQGWD8"
+        },
+        {
+          "titulo": "TibiaBR entrevista Craban, Steve e Simon (CipSoft) durante a BGS 2013",
+          "url": "https://www.youtube.com/watch?v=_ppHNOF79Dw"
+        }
+      ]
+    },
+    {
+      "titulo": "Streamers",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Assista jogadores ao vivo",
+        "url": "https://www.twitch.tv/directory/game/Tibia"
+      },
+      "videos": [
+        {
+          "titulo": "Nattank",
+          "url": "https://www.youtube.com/watch?v=2GNcLoKkRb8"
+        },
+        {
+          "titulo": "Rubini",
+          "url": "https://www.youtube.com/watch?v=lS1O1U4_HSY"
+        },
+        {
+          "titulo": "Buozzi",
+          "url": "https://www.youtube.com/watch?v=y1LqFwKGs1g"
+        },
+        {
+          "titulo": "LeeRagnarsson",
+          "url": "https://www.youtube.com/watch?v=WkuSsH5tXv0"
+        },
+        {
+          "titulo": "BubbaGame",
+          "url": "https://www.youtube.com/watch?v=FKWBWX-GM40"
+        },
+        {
+          "titulo": "Cyf Plays",
+          "url": "https://www.youtube.com/watch?v=DWnyU2WcbZc"
+        },
+        {
+          "titulo": "Itexo",
+          "url": "https://www.youtube.com/watch?v=m0g0CQyudOw"
+        }
+      ]
+    }
+  ]
+}
