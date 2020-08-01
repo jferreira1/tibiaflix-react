@@ -1,0 +1,35 @@
+.httpErrorDiv {
+    color: var(--primary);
+    font-family: 'Press Start 2P', cursive;
+    font-size: 65px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.httpErrorImg {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.httpErrorMessage {
+    color: var(--white);
+    font-size: 15px;
+    padding-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 370px;
+    text-align: left;
+    background-color: transparent;
+}
+
+.httpErrorButton {
+    padding-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 70px;
+
+}

@@ -46,39 +46,6 @@ function Home() {
           />
         );
       })}
-
-      {/* <BannerMain
-        videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
-        url={dadosIniciais.categorias[0].videos[0].url}
-        // eslint-disable-next-line max-len
-        videoDescription="Tibia é um dos mais antigos e bem-sucedidos MMORPG. Em um MMORPG, pessoas de todo o mundo se reúnem em um playground virtual para explorar áreas, resolver quebra-cabeças complicados e realizar façanhas heróicas."
-      />
-
-      <Carousel
-        ignoreFirstVideo
-        category={dadosIniciais.categorias[0]}
-      />
-
-      <Carousel
-        category={dadosIniciais.categorias[1]}
-      />
-
-      <Carousel
-        category={dadosIniciais.categorias[2]}
-      />
-
-      <Carousel
-        category={dadosIniciais.categorias[3]}
-      />
-
-      <Carousel
-        category={dadosIniciais.categorias[4]}
-      />
-
-      <Carousel
-        category={dadosIniciais.categorias[5]}
-      /> */}
-
     </PageDefault>
   );
 }
