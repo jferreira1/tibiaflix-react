@@ -22,11 +22,11 @@ function Error404() {
           into the world in exchange for a small sacrifice.
           <br />
           <br />
-          Simply click on 'Ok' to resume your journeys in Tibia
+          Simply click on &apos;Ok&apos; to resume your journeys in Tibia!
           <br />
         </div>
         <div className="httpErrorButton">
-          <Button>
+          <Button as={Link} to="/">
             Ok
           </Button>
         </div>
