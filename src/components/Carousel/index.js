@@ -26,7 +26,7 @@ function Carousel({
             )}
         </>
       )}
-      <Slider>
+      <Slider arrows={categoryColor}>
         {videos.map((video, index) => {
           if (ignoreFirstVideo && index === 0) {
             return null;

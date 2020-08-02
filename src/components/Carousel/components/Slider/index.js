@@ -12,13 +12,20 @@ const Container = styled.ul`
     top: 0;
     bottom: 0;
     margin: auto;
+    margin-left: 50px;
     width: 30px;
     height: 30px;
     transform: initial;
     &:before {
       font-size: 30px;
+      color: ${(props) => props.arrows}
+    }
+    &:hover{
+      transform: scale(1.5);
     }
   }
+
+
   
   .slick-prev {
     left: 0;
@@ -27,6 +34,7 @@ const Container = styled.ul`
     right: 16px;
   }
 `;
+
 
 export const SliderItem = styled.li`
   margin-right: 16px;
@@ -38,8 +46,8 @@ export const SliderItem = styled.li`
   }
 `;
 
-const Slider = ({ children }) => (
-  <Container>
+const Slider = ({ children, arrows }) => (
+  <Container arrows={arrows}>
     <SlickSlider {...{
       dots: false,
       infinite: true,
