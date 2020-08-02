@@ -14,6 +14,7 @@ export default function BannerMain({
   videoTitle,
   videoDescription,
   url,
+  sinopse,
 }) {
   const youTubeID = getYouTubeId(url);
   const bgUrl = `https://img.youtube.com/vi/${youTubeID}/maxresdefault.jpg`;
@@ -28,6 +29,7 @@ export default function BannerMain({
 
           <ContentAreaContainer.Description>
             {videoDescription}
+            {sinopse || null}
           </ContentAreaContainer.Description>
         </ContentAreaContainer.Item>
 

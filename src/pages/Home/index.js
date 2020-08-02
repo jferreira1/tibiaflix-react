@@ -30,6 +30,10 @@ function Home() {
                 videoTitle={dadosIniciais[0].videos[0].titulo}
                 url={dadosIniciais[0].videos[0].url}
                 videoDescription={dadosIniciais[0].videos[0].description}
+                sinopse={`Tibia é um dos MMORPG mais antigos e mais bem-sucedidos. 
+                          Atuando como cavaleiros, paladinos, feiticeiros ou druidas, os jogadores enfrentam o desafio de desenvolver as habilidades 
+                          de seus personagens selecionados, explorando uma grande variedade de áreas e masmorras perigosas e interagindo com outros jogadores 
+                          em nível social e diplomático. É especialmente a liberdade única que os jogadores desfrutam no Tibia que criam uma experiência de jogo imersiva.`}
               />
               <Carousel
                 ignoreFirstVideo
