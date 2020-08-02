@@ -14,7 +14,6 @@ function getAll() {
     });
 }
 
-
 function getAllWithVideos() {
   return fetch(`${URL_CATEGORIAS}?_embed=videos`)
     .then(async (respostaDoServidor) => {
@@ -27,7 +26,25 @@ function getAllWithVideos() {
     });
 }
 
+function remove(objetoDoVideo) {
+  return fetch(`${URL_CATEGORIAS}`, {
+    method: 'DELETE',
+    headers: {
+      'Content-type': 'application/json',
+    },
+    body: JSON.stringify(objetoDoVideo),
+  })
+    .then(async (respostaDoServidor) => {
+      if (respostaDoServidor.ok) {
+        const resposta = await respostaDoServidor.json();
+        return resposta;
+      }
+      throw new Error('Não foi possivel pegar os dados.');
+    });
+}
+
 export default {
   getAllWithVideos,
   getAll,
+  remove,
 };

@@ -19,8 +19,11 @@ export const VideoCardContainer = styled.a`
   align-items: flex-end;
   padding: 16px;
 
-  transition: opacity .3s;
-  &:hover,
+  transition: all 0.5s;
+  &:hover{
+    transform: scale(1.8);
+    margin: 0px 116px;
+  }
   &:focus {
     opacity: .5;
   }
@@ -29,3 +32,4 @@ export const VideoCardContainer = styled.a`
     margin-left: 20px;
   }
 `;
+export default VideoCardContainer;
