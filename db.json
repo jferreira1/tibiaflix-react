@@ -2,43 +2,57 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "Front End",
+      "titulo": "Tutoriais",
+      "link": "https://www.tibia.com/gameguides/?subtopic=manual",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Aprenda a jogar",
+        "url": "https://www.tibia.com/gameguides/?subtopic=manual"
       }
     },
     {
       "id": 2,
-      "titulo": "Back End",
+      "titulo": "Quests",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Explore o mundo do Tibia",
+        "url": "https://www.tibiawiki.com.br/wiki/Quests"
       }
     },
     {
       "id": 3,
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "PVP",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/cursos-online-mobile"
+        "text": "Enfrente seus adversários",
+        "url": "https://www.tibia.com/community/?subtopic=highscores"
       }
     },
     {
       "id": 4,
-      "titulo": "Filmes",
-      "cor": "orange"
+      "titulo": "Wars",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Conquiste mundos",
+        "url": "https://www.tibia.com/community/?subtopic=guilds"
+      }
     },
     {
       "id": 5,
-      "titulo": "Games",
+      "titulo": "Entrevistas",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Conheça personagens lendários",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Streamers",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Assista jogadores ao vivo",
+        "url": "https://www.twitch.tv/directory/game/Tibia"
       }
     }
   ],
@@ -46,158 +60,248 @@
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "SEO com React",
-      "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+      "titulo": "O que é Tibia?",
+      "url": "https://www.youtube.com/watch?v=-_f1E2cq68U"
     },
     {
-      "id": 2,
+"id": 2,
       "categoriaId": 1,
-      "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+      "titulo": "Tibia - PRIMEIROS PASSOS #1 - Guia Completo para INICIANTES!",
+      "url": "https://www.youtube.com/watch?v=SUpea-Y_zhA"
     },
     {
       "id": 3,
       "categoriaId": 1,
-      "titulo": "Componentização com VanillaJS #AluraMais",
-      "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+      "titulo": "Tutorial Level 1 ao 50 fazendo quase 1kk | TIBIA | Parte 1",
+      "url": "https://www.youtube.com/watch?v=533q-q_z5i0"
     },
     {
       "id": 4,
       "categoriaId": 1,
-      "titulo": "Pare de chutar e aprenda a display: inline #01",
-      "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+      "titulo": "Como COMPRAR sua PREMIUM TIME pelo JOGO | Tibia",
+      "url": "https://www.youtube.com/watch?v=P4el6BJUGSI"
     },
     {
       "id": 5,
       "categoriaId": 1,
-      "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-      "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+      "titulo": "EXERCISE DUMMY - Novo training EXPLICADO",
+      "url": "https://www.youtube.com/watch?v=ZAhLpUOlIzo"
     },
     {
       "id": 6,
       "categoriaId": 1,
-      "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+      "titulo": "10 Tibia Tips & Tricks!",
+      "url": "https://www.youtube.com/watch?v=SZGL3Q35-xs"
     },
     {
       "id": 7,
       "categoriaId": 1,
-      "titulo": "Novidades do Angular v9",
-      "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+      "titulo": "10 Tibia PvP Tips & Tricks!",
+      "url": "https://www.youtube.com/watch?v=-4RUY2d2Ux4"
     },
     {
       "id": 8,
-      "categoriaId": 2,
-      "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-      "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+      "categoriaId": 1,
+      "titulo": "Tutorial Tibia 11 - Como Usar, O que tem de novo, Vantagens.",
+      "url": "https://www.youtube.com/watch?v=lCg8P8dx7-c"
     },
     {
       "id": 9,
-      "categoriaId": 2,
-      "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-      "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+      "categoriaId": 1,
+      "titulo": "TIBIA - Knight, Como Organizar suas Hotkeys, Backpack e Action Bars no Tibia!",
+      "url": "https://www.youtube.com/watch?v=CJMhquNmAMQ"
     },
     {
       "id": 10,
-      "categoriaId": 2,
-      "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-      "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+      "categoriaId": 1,
+      "titulo": "Como configurar o Tibia 11 (Atualizado!) 2019",
+      "url": "https://www.youtube.com/watch?v=4TF8PFpL2Kc"
     },
     {
       "id": 11,
       "categoriaId": 2,
-      "titulo": "API: Dicionário do Programador",
-      "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+      "titulo": "Best Annihilator on Tibia",
+      "url": "https://www.youtube.com/watch?v=WrNVMHLQ1bY"
     },
     {
       "id": 12,
       "categoriaId": 2,
-      "titulo": "Usando Git Direito",
-      "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+      "titulo": "EK 165 PITS OF INFERNO QUEST SOLO - TIBIA",
+      "url": "https://www.youtube.com/watch?v=oJyMULIoye0"
     },
     {
       "id": 13,
-      "categoriaId": 3,
-      "titulo": "Teste de Turing",
-      "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+      "categoriaId": 2,
+      "titulo": "ED 187 INQUISITION QUEST SOLO - TIBIA",
+      "url": "https://www.youtube.com/watch?v=6hh4zjkGdLo"
     },
     {
       "id": 14,
-      "categoriaId": 3,
-      "titulo": "O que é Data Science?",
-      "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-    },
+      "categoriaId": 2,
+      "titulo": "Old Tibia - Cachero solo Demon Helmet Quest (DHQ)",
+      "url": "https://www.youtube.com/watch?v=6ZvCnbDmH1g"
+    }, 
     {
       "id": 15,
-      "categoriaId": 3,
-      "titulo": "Melhor forma de aprender Python",
-      "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+      "categoriaId": 2,
+      "titulo": "The Demon Oak Quest",
+      "url": "https://www.youtube.com/watch?v=yBRtdrgtfnM"
     },
     {
       "id": 16,
-      "categoriaId": 3,
-      "titulo": "Como ingressar no mercado de Data Science?",
-      "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+      "categoriaId": 2,
+      "titulo": "Tibia Mortal Combat EK 117 & ED 109",
+      "url": "https://www.youtube.com/watch?v=chwbFa2WZs0"
     },
     {
       "id": 17,
-      "categoriaId": 4,
-      "titulo": "Interestellar",
-      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+      "categoriaId": 3,
+      "titulo": "Punio - GOD of PVP [Tibia]",
+      "url": "https://www.youtube.com/watch?v=ulZ9uCa43LA"
     },
     {
       "id": 18,
-      "categoriaId": 4,
-      "titulo": "Gattaca",
-      "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+      "categoriaId": 3,
+      "titulo": "Fearwe | Highlight #1 [TIBIA]",
+      "url": "https://www.youtube.com/watch?v=GJ4xzz0OZh8"
     },
     {
       "id": 19,
-      "categoriaId": 4,
-      "titulo": "A Chegada",
-      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+      "categoriaId": 3,
+      "titulo": "Lord'Paulistinha Killed - Test Server 2009",
+      "url": "https://www.youtube.com/watch?v=ApmLXg8u1pg"
     },
     {
       "id": 20,
-      "categoriaId": 4,
-      "titulo": "Feitiço do Tempo",
-      "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+      "categoriaId": 3,
+      "titulo": "Outcast PVP [Oldschool Tibia]",
+      "url": "https://www.youtube.com/watch?v=WaO2kzlb0gM"
     },
     {
       "id": 21,
-      "categoriaId": 5,
-      "titulo": "Final Fantasy 7",
-      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+      "categoriaId": 3,
+      "titulo": "TOMANDO HUNTED , WILLZERA CONTRA 4 NOOBS, TIBIA PK",
+      "url": "https://www.youtube.com/watch?v=WLAa3AyB0M0"
     },
     {
       "id": 22,
-      "categoriaId": 5,
-      "titulo": "Assassins Creed Valhalla",
-      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+      "categoriaId": 3,
+      "titulo": "Tibia - [PK] Solo'ing a 270 Mage. 2kk Profit.",
+      "url": "https://www.youtube.com/watch?v=wychAPrM9G0"
     },
     {
       "id": 23,
-      "categoriaId": 5,
-      "titulo": "God of War 4",
-      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+      "categoriaId": 4,
+      "titulo": "A INVASÃO DE LUTABRA O INICIO \"PILOTO\" #TibiaFlix 2º Temporada EP1 #TibiaClips",
+      "url": "https://www.youtube.com/watch?v=P9YxZVBKNkA"
     },
     {
       "id": 24,
+      "categoriaId": 4,
+      "titulo": "Tibia Antica Best War Ever Uploaded By Cadil Loma",
+      "url": "https://www.youtube.com/watch?v=7YRHqZK9Hcs"
+    },
+    {
+      "id": 25,
+      "categoriaId": 4,
+      "titulo": "[Zingi FTW] Tibia CALVA/INFERNA War 2014: The Next Level",
+      "url": "https://www.youtube.com/watch?v=IQOg02faP3M"
+    },
+    {
+      "id": 26,
+      "categoriaId": 4,
+      "titulo": "[Zingi PD] Tibia Valoria War: Montazar The Movie, +Few VT Records",
+      "url": "https://www.youtube.com/watch?v=QtLNvLnrKUY"
+    },
+    {
+      "id": 27,
+      "categoriaId": 4,
+      "titulo": "Tibia 7.4 | Aldora war - Masakrowiec + Nemtor vs Krishna + Black Widows",
+      "url": "https://www.youtube.com/watch?v=-RpyW4HFoaQ"
+    },
+    {
+      "id": 28,
+      "categoriaId": 4,
+      "titulo": "Thais x Venore Noob War 30/11/2008 - Tibia Lucera",
+      "url": "https://www.youtube.com/watch?v=VAkD2AGlbrk"
+    },
+    {
+      "id": 29,
       "categoriaId": 5,
-      "titulo": "Resident Evil 8",
-      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+      "titulo": "Tibia: Entrevista com Carlos Locatelli | Cateroide",
+      "url": "https://www.youtube.com/watch?v=1hdb8GrP4vE"
     },
     {
-      "titulo": "",
-      "url": "",
-      "categoriaId": 1,
-      "id": 25
+      "id": 30,
+      "categoriaId": 5,
+      "titulo": "Arieswar - Dragon Lord | ⛏",
+      "url": "https://www.youtube.com/watch?v=eMmaBfAj6p4"
     },
     {
-      "titulo": "Risada de Bandido",
-      "url": "https://www.youtube.com/watch?v=HnUejp5qa_w",
-      "categoriaId": 2,
-      "id": 26
+      "id": 31,
+      "categoriaId": 5,
+      "titulo": "Tibia: Entrevista com Rubini - PARTE 1 | Cateroide",
+      "url": "https://www.youtube.com/watch?v=Xwe_jqzLCHU"
+    },
+    {
+      "id": 32,
+      "categoriaId": 5,
+      "titulo": "Tibia: Entrevista com Nattank - PARTE 1 (ESQUENTA)",
+      "url": "https://www.youtube.com/watch?v=efEEWtjuR2I"
+    },
+    {
+      "id": 33,
+      "categoriaId": 5,
+      "titulo": "Eternal Oblivion comenta sobre Serpentine Tower em \"Entrevista\" - [AMA]",
+      "url": "https://www.youtube.com/watch?v=s-rM3RQGWD8"
+    },
+    {
+      "id": 34,
+      "categoriaId": 5,
+      "titulo": "TibiaBR entrevista Craban, Steve e Simon (CipSoft) durante a BGS 2013",
+      "url": "https://www.youtube.com/watch?v=_ppHNOF79Dw"
+    },
+    {
+      "id": 35,
+      "categoriaId": 6,
+      "titulo": "Nattank",
+      "url": "https://www.youtube.com/watch?v=2GNcLoKkRb8"
+    },
+    {
+      "id": 36,
+      "categoriaId": 6,
+      "titulo": "Rubini",
+      "url": "https://www.youtube.com/watch?v=lS1O1U4_HSY"
+    },
+    {
+      "id": 37,
+      "categoriaId": 6,
+      "titulo": "Buozzi",
+      "url": "https://www.youtube.com/watch?v=y1LqFwKGs1g"
+    },
+    {
+      "id": 38,
+      "categoriaId": 6,
+      "titulo": "LeeRagnarsson",
+      "url": "https://www.youtube.com/watch?v=WkuSsH5tXv0"
+    },
+    {
+      "id": 39,
+      "categoriaId": 6,
+      "titulo": "BubbaGame",
+      "url": "https://www.youtube.com/watch?v=FKWBWX-GM40"
+    },
+    {
+      "id": 40,
+      "categoriaId": 6,
+      "titulo": "Cyf Plays",
+      "url": "https://www.youtube.com/watch?v=DWnyU2WcbZc"
+    },
+    {
+      "id": 41,
+      "categoriaId": 6,
+      "titulo": "Itexo",
+      "url": "https://www.youtube.com/watch?v=m0g0CQyudOw"
     }
-  ]
+]
 }
