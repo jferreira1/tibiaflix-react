@@ -5,6 +5,7 @@ import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
 import Button from '../../../components/Button';
 import useForm from '../../../hooks/useForm';
+import './Categoria.css';
 
 function CadastroCategoria() {
   const valoresIniciais = {
@@ -14,7 +15,7 @@ function CadastroCategoria() {
   };
 
   const { handleChange, values, clearForm } = useForm(valoresIniciais);
-  const [categorias, setCategorias] = useState(['Teste']);
+  const [categorias, setCategorias] = useState([]);
 
   useEffect(() => {
     if (window.location.href.includes('localhost')) {
@@ -56,7 +57,6 @@ function CadastroCategoria() {
 
         <FormField
           label="Descrição"
-                    // desafio
           type="textarea"
           value={values.descricao}
           name="descricao"
@@ -71,23 +71,34 @@ function CadastroCategoria() {
           onChange={handleChange}
         />
 
-        <Button>
-          Cadastrar
+        <Button type="submit">
+          Enviar categoria
         </Button>
 
       </form>
+      <table>
+        <thead>
+          <tr>
+            <th>Título</th>
+            <th>Descrição</th>
+            <th>Editar</th>
+            <th>Remover</th>
+          </tr>
+        </thead>
+        <tbody>
+          {categorias.map((categoria, indice) => (
+            <>
+              <tr key={`${categoria}${indice}`}>
+                <th>{categoria.titulo}</th>
+                <th>{categoria.link_extra.text}</th>
+                <th><Link>Editar</Link></th>
+                <th><Link>Remover</Link></th>
+              </tr>
+            </>
+          ))}
+        </tbody>
+      </table>
 
-      <ul>
-        {categorias.map((categoria, indice) => (
-          <li key={`${categoria}${indice}`}>
-            {categoria.titulo}
-          </li>
-        ))}
-      </ul>
-
-      <Link to="/cadastro/video">
-        Cadastro de Videos
-      </Link>
     </PageDefault>
   );
 }

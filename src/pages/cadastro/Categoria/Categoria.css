@@ -1,0 +1,33 @@
+thead {
+    height: 100px;
+    background-color: var(--primary);
+    color: black;
+    line-height: 50px;
+    text-align: center;
+}
+
+tbody th:nth-last-child(1) {
+    text-align:center;
+}
+tbody th:nth-last-child(2) {
+    text-align:center;
+}
+  
+  tbody tr:nth-child(even) {
+    
+}
+
+table, th {
+    border-width: 0px;
+    border-style: solid;
+    border-color: var(--primary);
+}
+
+table {
+    padding-top: 50px;
+    width: 100%;
+    line-height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
